@@ -1,12 +1,16 @@
 # AI for Medicine
 
-A source repository for Medicine related AI
+A Source Repository for Medicine related AI Articles / Example Notebooks.
+I'm using this repository as a collection repo.
 
 
 ## Notebooks
+### Medical Diagnosis
 * [Data Exploration for ChestX Dataset](notebooks/medical_diagnosis/dataExploration.py)
 
 ## Articles
+
+### Medical Diagnosis
 * [Dermatologist-level classification of skin cancer
 with deep neural networks](articles/medical_diagnosis/Dermatology.pdf)
 
@@ -21,10 +25,6 @@ Breast Cancer](articles/medical_diagnosis/Histopathology.pdf)
 Weakly-Supervised Classification](articles/medical_diagnosis/ChestX.pdf)
 
 
-
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
+## Contribution
+Pull requests are welcome if you want to add amazing articles or notebooks to this collection.
+If you find this useful for your research please star the repository.
