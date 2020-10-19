@@ -6,7 +6,8 @@ I'm using this repository as a collection repo.
 
 ## Notebooks
 ### Medical Diagnosis
-* [Data Exploration for ChestX Dataset](notebooks/medical_diagnosis/dataExploration.py)
+* [Data Exploration for ChestX Dataset](notebooks/medical_diagnosis/dataExplorationW1_lab1.py)
+* [Explanation for Weighted Loss](notebooks/medical_diagnosis/CountingLabels_W1_lab2.py)
 
 ## Articles
 
