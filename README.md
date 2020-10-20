@@ -8,7 +8,7 @@ I'm using this repository as a collection repo.
 ### Medical Diagnosis
 * [Patient Overlapping](notebooks/medical_diagnosis/PatientOverlapping_W1_lab4.ipynb)
 * [DenseNet Review](notebooks/medical_diagnosis/Densenet_Review_W1_lab3.ipynb)
-
+* [Explanation for Weighted Loss](notebooks/medical_diagnosis/CountingLabels_W1_lab2.ipynb)
 * [Data Exploration for ChestX Dataset](notebooks/medical_diagnosis/dataExplorationW1_lab1.ipynb)
 
 ## Articles
