@@ -6,7 +6,7 @@ I'm using this repository as a collection repo.
 
 ## Notebooks
 ### Medical Diagnosis
-* [Patient Overlapping](notebooks/medical_diagnosis/Chest X-Ray Medical Diagnosis with Deep Learning.ipynb)
+* [Chest X-Ray Medical Diagnosis Assignment 1](notebooks/medical_diagnosis/Chest_X-Ray_Medical_Diagnosis_Assignment1.ipynb)
 * [Patient Overlapping](notebooks/medical_diagnosis/PatientOverlapping_W1_lab4.ipynb)
 * [DenseNet Review](notebooks/medical_diagnosis/Densenet_Review_W1_lab3.ipynb)
 * [Explanation for Weighted Loss](notebooks/medical_diagnosis/CountingLabels_W1_lab2.ipynb)
