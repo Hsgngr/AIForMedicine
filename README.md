@@ -6,6 +6,7 @@ I'm using this repository as a collection repo.
 
 ## Notebooks
 ### Medical Diagnosis
+* [Exploring MRI Data Week 3](notebooks/medical_diagnosis/Week3/Explore_MRI_data_W3_Lab1.ipynb)
 * [Evaluation of Diagnostic Metrics Assignment 2](notebooks/medical_diagnosis/Evaluation_of_Diagnostic_Metrics/Evaluation_of_Diagnostic_Metrics.ipynb)
 * [Chest X-Ray Medical Diagnosis Assignment 1](notebooks/medical_diagnosis/Chest_X-Ray_Medical_Diagnosis_Assignment1.ipynb)
 * [Patient Overlapping](notebooks/medical_diagnosis/PatientOverlapping_W1_lab4.ipynb)
