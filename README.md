@@ -18,6 +18,9 @@ I'm using this repository as a collection repo.
 ## Articles
 
 ### Medical Diagnosis
+
+* [U-Net for Biomedical Image Segmentation](articles/medical_diagnosis/cnn_image_segmentation.pdf)
+
 * [Dermatologist-level classification of skin cancer
 with deep neural networks](articles/medical_diagnosis/Dermatology.pdf)
 
