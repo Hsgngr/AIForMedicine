@@ -6,6 +6,7 @@ I'm using this repository as a collection repo.
 
 ## Notebooks
 ### Medical Diagnosis
+* [Brain Tumor Auto-Segmentation for Magnetic Resonance Imaging (MRI)](notebooks/medical_diagnosis/Week3/Week3_LastLab.ipynb)
 * [Implementing a U-Net for Image Segmentation Week 3](notebooks/medical_diagnosis/Week3/An_example_unet_implementation_W3_Lab3.ipynb)
 * [Exploring MRI Data Week 3](notebooks/medical_diagnosis/Week3/Explore_MRI_data_W3_Lab1.ipynb)
 * [Evaluation of Diagnostic Metrics Assignment 2](notebooks/medical_diagnosis/Evaluation_of_Diagnostic_Metrics/Evaluation_of_Diagnostic_Metrics.ipynb)
